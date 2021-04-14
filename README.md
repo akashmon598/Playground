@@ -36,7 +36,13 @@ For disease detection, I have used the **PLANT DISEASE** dataset. I have used th
 1. When process button is clicked another window should be open where the camera zoom can be controlled. This will be updated soon!!
 2. Add live streaming in the second window using opencv.
 3. Send the captured image from the GUI to the pc/rasberriepie. As i am using a rasberrie pie I am not able to install sony play memories.
- 
+
+### LINKS FOR THE USED GITHUB REPOSETORIES
+1. KAGGLE DATASET:          https://www.kaggle.com/kaustubhb999/tomatoleaf
+2. SONY_CAMERA_API:         https://github.com/Bloodevil/sony_camera_api
+3. PLANT DISEASE DETECTION: https://github.com/kevalnagda/plant-disease-detection
+
+
 ### IF YOU THINK YOU CAN ADD TO THIS PROJECT PLEASE GET IN TOUCH 
 
 ![Capture](https://user-images.githubusercontent.com/64519161/114655206-6209ad80-9d09-11eb-8ddf-dca854f0e92f.PNG) **akash.romain@gmail.com**
