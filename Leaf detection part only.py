@@ -87,7 +87,7 @@ class MainWindow(QMainWindow):
         layout.addWidget(self.plant_disease)
         
     def getImage(self):
-        fname = QFileDialog.getOpenFileName(self, "Open file", "/home/ucal/Desktop/", "Image files (*.jpeg , *.gif) ")
+        fname = QFileDialog.getOpenFileName(self, "Open file", " YOUR FILE DIRECTORY", "Image files (*.jpeg , *.gif) ")
         global imagePath
         imagePath = fname[0]
         pixmap = QPixmap(imagePath)
@@ -104,9 +104,9 @@ class MainWindow(QMainWindow):
         config.gpu_options.per_process_gpu_memory_fraction = 0.5
         config.gpu_options.allow_growth = True
         session = InteractiveSession(config=config)
-        new_model = load_model('/home/ucal/Desktop/working gui/tomatodisease.h5')
+        new_model = load_model('YOUR FILE DIRECTORY /tomatodisease.h5')
         new_model.summary()
-        filename = '/home/ucal/Desktop/working gui/plant_disease_label_transform.pkl'
+        filename = 'YOUR FILE DIRECTORY/plant_disease_label_transform.pkl'
         image_labels = pickle.load(open(filename, 'rb'))
         DEFAULT_IMAGE_SIZE = tuple((256, 256))
         image = cv2.imread(imagePath)
