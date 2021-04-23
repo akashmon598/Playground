@@ -21,9 +21,8 @@ I have made a GUI program to detect the diseases in the tomato plant using an im
 For disease detection, I have used the **PLANT DISEASE** dataset. I have used the program provided by Kevalnagda for reference. Using his program I was not able to save the model. Due to this I made my model with his as a reference and saved it as an h5 file. 
 
 ### A SCREENSHOT THE GUI 
-![Screenshot from 2021-04-23 16-34-04](https://user-images.githubusercontent.com/64519161/115862517-e074f680-a451-11eb-8a10-4cb36d42899b.png)
 ![Screenshot from 2021-04-23 16-32-17](https://user-images.githubusercontent.com/64519161/115862522-e1a62380-a451-11eb-8f70-85650ca124ff.png)
-
+![Screenshot from 2021-04-23 16-34-04](https://user-images.githubusercontent.com/64519161/115862517-e074f680-a451-11eb-8a10-4cb36d42899b.png)
 
 
 ###  INSTRUCTIONS
