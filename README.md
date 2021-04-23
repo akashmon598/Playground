@@ -46,7 +46,6 @@ For disease detection, I have used the **PLANT DISEASE** dataset. I have used th
 
 ### IF YOU THINK YOU CAN ADD TO THIS PROJECT PLEASE GET IN TOUCH 
 
-![Capture](https://user-images.githubusercontent.com/64519161/114655206-6209ad80-9d09-11eb-8ddf-dca854f0e92f.PNG) **akash.romain@gmail.com**
 
 
 
