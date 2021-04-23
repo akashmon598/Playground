@@ -41,7 +41,7 @@ For disease detection, I have used the **PLANT DISEASE** dataset. I have used th
 1. KAGGLE DATASET:             https://www.kaggle.com/kaustubhb999/tomatoleaf
 2. SONY_CAMERA_API:            https://github.com/Bloodevil/sony_camera_api
 3. PLANT DISEASE DETECTION:    https://github.com/kevalnagda/plant-disease-detection
-4. link for the h5 model file: https://drive.google.com/file/d/12kHHR1fs6a91nx9L9_kqXcuoKhcSEhPK/view?usp=sharing
+4. link for the h5 model file: For the same ping me via akash.romain@gmail.com
 
 
 ### IF YOU THINK YOU CAN ADD TO THIS PROJECT PLEASE GET IN TOUCH 
