@@ -24,7 +24,7 @@ For disease detection, I have used the **PLANT DISEASE** dataset. I have used th
 ![Screenshot from 2021-04-23 16-34-04](https://user-images.githubusercontent.com/64519161/115862517-e074f680-a451-11eb-8a10-4cb36d42899b.png)
 ![Screenshot from 2021-04-23 16-32-17](https://user-images.githubusercontent.com/64519161/115862522-e1a62380-a451-11eb-8f70-85650ca124ff.png)
 
-![image27](https://user-images.githubusercontent.com/64519161/114650089-40a3c400-9cff-11eb-888d-aa4b36ec6a1f.png)
+
 
 ###  INSTRUCTIONS
 1. Download the .h5 file, .pkl file and workinggui.py file.
