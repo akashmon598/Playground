@@ -1,15 +1,5 @@
-### Hi there, I'm Akash Suresh babu 👋
 
-
-
-
-- 🔭 I just launched my first Github repository.
-- 🌱 I’m currently developing my skills in Data science and machine learning.
-- 👯 I’m looking to collaborate with other content creators to improve my knowledge.
-
-### GUI PROGRAM TO DETECT DISEASES IN TOMATO PLANT USING AN IMAGE OF ITS LEAF & CONTROLLING THE SONY CAMERA TO CAPTURE THE IMAGE OF THE LEAF 
-
-NOTE: ALL THE MENTIONED GITHUB REPO'S AND DATASET LINK WILL BE ATTACHED BELOW.
+### LEAF DETECTION GUI PROGRAM
 
 I have made a GUI program to detect the diseases in the tomato plant using an image of the leaf. The GUI also controls a specific set of sony cameras to capture the image and send it to the user's pc for processing. The main design and functions of the application are as given below.
 
