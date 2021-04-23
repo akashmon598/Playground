@@ -33,9 +33,8 @@ For disease detection, I have used the **PLANT DISEASE** dataset. I have used th
 
 ### FEATURES THAT I AM PLANNING TO ADD TO THIS GUI
 
-1. When process button is clicked another window should be open where the camera zoom can be controlled. This will be updated soon!!
-2. Add live streaming in the second window using opencv.
-3. Send the captured image from the GUI to the pc/rasberriepie. As i am using a rasberrie pie I am not able to install sony play memories.
+1. Add live streaming in the second window using opencv.
+2. Send the captured image from the GUI to the pc/rasberriepie. As i am using a rasberrie pie I am not able to install sony play memories.
 
 ### LINKS FOR THE USED GITHUB REPOSETORIES
 1. KAGGLE DATASET:             https://www.kaggle.com/kaustubhb999/tomatoleaf
